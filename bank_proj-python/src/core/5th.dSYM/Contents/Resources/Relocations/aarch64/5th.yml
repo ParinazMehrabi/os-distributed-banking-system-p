@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/parinaz/bank_os_project/bank_os_project/bank_proj/src/core/5th'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _calculateNeed, symObjAddr: 0x0, symBinAddr: 0x100003504, symSize: 0xC8 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _calculateNeed, symObjAddr: 0x0, symBinAddr: 0x100003504, symSize: 0xC8 }
+  - { offsetInCU: 0xB9, offset: 0xB9, size: 0x8, addend: 0x0, symName: _isSafe, symObjAddr: 0xC8, symBinAddr: 0x1000035CC, symSize: 0x304 }
+  - { offsetInCU: 0x1E7, offset: 0x1E7, size: 0x8, addend: 0x0, symName: _requestResources, symObjAddr: 0x3CC, symBinAddr: 0x1000038D0, symSize: 0x2F0 }
+  - { offsetInCU: 0x2C6, offset: 0x2C6, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x6BC, symBinAddr: 0x100003BC0, symSize: 0x154 }
+...
